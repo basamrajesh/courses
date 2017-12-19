@@ -1,0 +1,40 @@
+h1{
+text-align: center;
+font-family: Montserrat;
+}
+.inner-block
+{
+	width: 100%;
+	position: relative;
+}
+#p1, #p2, #p3{
+  margin-top: 30px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.inner-tag{
+	background-color: #fff;
+	border-radius: 2px;
+  width: 100px;
+  position: absolute;
+	right: 0;
+  margin: 1px;
+  text-align: center;
+}
+
+.outer-block
+{
+	width: 100%;
+	position: absolute;
+	left:5%;
+  font-family: Montserrat;
+}
+
+.inner-block
+{
+	display: inline-flex;
+	background-color: #cb202d;
+	width: 30%;
+	height: 180px;
+}
